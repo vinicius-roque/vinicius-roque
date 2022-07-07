@@ -15,7 +15,7 @@
 
 Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student and electrical engineering student from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I also love the way that electrical engeneering make people's lives easier.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765" width="500" height="320" />
   
 - 💼 Any sugestion? do reach, [email](mailto:viniciusfr6@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
