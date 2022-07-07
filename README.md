@@ -17,10 +17,10 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:viniciusfr6@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:viniciusfr6@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,7 +29,7 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
 🏆  All Driven Bootcamp projects so far have been made          
 🌸  Completed 1 project this week           
