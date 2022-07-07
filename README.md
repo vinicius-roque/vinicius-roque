@@ -38,6 +38,6 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vinicius-roque&show_icons=true&theme=gotham%22%20alt=%22vinicius-roque" />
