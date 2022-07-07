@@ -17,7 +17,7 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:viniciusfr6@gmail.com) :)
+- 💼 Any sugestion? do reach, [email](mailto:viniciusfr6@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
 
 **Languages and tools:**  
