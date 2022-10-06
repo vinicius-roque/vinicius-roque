@@ -49,7 +49,7 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
         <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=vinicius-roque&show_icons=true&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
       </td>
       <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-roque&layout=compact&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" />
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-roque&layout=compact&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" />
       </td>
     </tr>
 </table>
