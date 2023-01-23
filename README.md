@@ -42,8 +42,7 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 <!-- TODO-IST:START -->
 🏆  All Driven Bootcamp projects so far have been made          
 🌸  Completed 1 project this week           
-✅  Completed 18 projects so far           
-⏳  Longest streak is 7 days
+✅  Completed 25 projects so far           
 <!-- TODO-IST:END -->
 
 
