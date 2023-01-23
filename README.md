@@ -52,10 +52,10 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 <table>
     <tr>
       <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=vinicius-roque&show_icons=true&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+        <img align="center" style="padding=0;" src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=vinicius-roque" />
       </td>
       <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-roque&layout=compact&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&layout=compact&langs_count=10" />
+        <img align="center" style="padding=0;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vinicius-roque" />
       </td>
     </tr>
 </table>
