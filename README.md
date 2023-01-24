@@ -1,4 +1,4 @@
-### Hello, there
+### Hey, there
 <a href="https://www.instagram.com/viinicius_roque/">
   <img align="left" alt="Vinícius Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
