@@ -1,4 +1,5 @@
-### Hey, there
+### Olá!
+
 <a href="https://www.instagram.com/viinicius_roque/">
   <img align="left" alt="Vinícius Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,14 +14,14 @@
 
 <br />
 
-Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student and electrical engineering student from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I also love the way that electrical engeneering make people's lives easier.
+Olá, pessoal. Meu nome é Vinícius de Freitas Roque, um desenvolvedor web full stack e estudante de engenharia elétrica. Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. Eu também amo a forma que a engenharia elétrica facilita a vida das pessoas. 
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/d36ea8a39e4f6ba5ffe30669fd043e042d1063e4738107fc34174b0897563242/68747470733a2f2f7374617469632e636f6c6c65637475692e636f6d2f73686f74732f333235323338352f6a6f622d6f70656e696e672d6c61726765" width="500" height="320" />
   
-- 💼 Any sugestion? do reach, [email](mailto:viniciusfr6@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help;
+- 💼 Alguma sugestão? Fale comigo, [email](mailto:viniciusfr6@gmail.com) :)
+- 💬 Me pergunte sobre qualquer coisa, fico feliz em ajudar;
 
-**Languages and tools:**  
+**Linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -38,15 +39,15 @@ Hey, people. i'm Vinícius de Freitas Roque, a full stack web developer student 
 <code><img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"></code>
 <code><img height="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 
-🚧 **My todoist stats:**
+🚧 **Minhas estatísticas do Todoist:**
 <!-- TODO-IST:START -->
-🏆  All Driven Bootcamp projects so far have been made          
-🌸  Completed 1 project this week           
-✅  Completed 25 projects so far           
+🏆  Todos os projetos da Driven Bootcamp foram concluídos até aqui         
+🌸  1 projeto concluído essa semana          
+✅  25 projetos concluídos até aqui         
 <!-- TODO-IST:END -->
 
 
-📈 My github stats
+📈 Minhas estatísticas do GitHub
 
 <div align="center">
 <table>
